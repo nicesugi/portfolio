@@ -15,7 +15,7 @@
 <br>
 
 ### 🙏 연락처
-- 이메일 : nicesugi@kakao.com/
+- 이메일 : nicesugi@kakao.com
 - 블로그 : https://nicesugi.tistory.com/
 - 깃헙 : https://github.com/nicesugi/
 
