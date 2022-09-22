@@ -44,4 +44,23 @@
 
 <br>
 
+
+# <a href="https://github.com/nicesugi/2JYK-The_season_of_N.11">The season of N.11</a>
+💁🏻‍♀️ 팀 리더 / 담당 역할은 프로젝트이름을 눌러주시면 개인 포트폴리오로 이동합니다 <br><br>
+2022년 6월 28일 - 2022년 7월 6일 (1주)<br><br>
+유화 제작 인공지능 기술로 이미지를 변환시켜주는 SNS (팀프로젝트)<br><br>
+
+기술 스택<br>
+- Python  |  Django  |  DRF
+- Javascript  |  JQuery  |  HTML  |  CSS
+- SQLite |  AWS-EC2  |  AWS-S3 
+- Visual Studio Code  |  postman
+<br>
+
+
+<a href="https://github.com/2JYK/The-season-of-N.11_backend" target="_blank">[The season Backend repo]</a>
+<br>
+<a href="https://github.com/2JYK/The-season-of-N.11_frontend" target="_blank">[The season Frontend repo]</a>
+
+<br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fnicesugi%2Fportfolio&count_bg=%2379C83D&title_bg=%23FF6BBD&icon=&icon_color=%23E7E7E7&title=%F0%9F%A7%B8+Views+&edge_flat=false)](https://hits.seeyoufarm.com)
