@@ -19,7 +19,7 @@
 - 블로그 : https://nicesugi.tistory.com/
 - 깃헙 : https://github.com/nicesugi/
 
-<br><br>
+<br>
 
 # <a href="https://github.com/nicesugi/2JYK-iPark">iPark</a>
 💁🏻‍♀️ 팀 리더 / 담당 역할은 프로젝트이름을 눌러주시면 개인 포트폴리오로 이동합니다 <br><br>
