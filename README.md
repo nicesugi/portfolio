@@ -3,7 +3,7 @@
 ### 반갑습니다~ 👋
 
 22년 4월 ***'Hello World'*** 를 시작으로<br>
-&nbsp;&nbsp;    ***Python, Flask, Django, DRF, Docker, NGINX, AWS EC2 RDS Route53를 통한 배포*** 까지 모두 다뤄보았습니다!<br>
+&nbsp;&nbsp;    ***Python, Flask, Django, DRF, Docker, NGINX, Gunicorn, AWS EC2 RDS Route53를 통한 배포*** 까지 모두 다뤄보았습니다!<br>
 
 비서과 출신으로 `꼼꼼` 하고 ! <br>
 다양한 근무경험으로 `적응력도 빠르고` ! <br>
