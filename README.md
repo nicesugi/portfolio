@@ -16,6 +16,18 @@
 
 <br>
 
+### 기술스택
+
+`Backend` Python | Django | Django REST framework
+
+`Frontend` HTML | CSS | Javascript
+
+`DataBase` MongoDB | SQLite | PostgreSQL
+
+`Infra` Gunicorn | NGINX | Docker | Let’s Encrypt | AWS EC2, RDS, Cloud9, Route53
+
+<br>
+
 ### 학력, 교육
 
 #### 원티드 프리온보딩 백엔드 코스 4기 
