@@ -3,22 +3,37 @@
 ### 반갑습니다~ 👋
 
 22년 4월 ***'Hello World'*** 를 시작으로<br>
-&nbsp;&nbsp;    ***python, flask, django, DRF, docker, nginx, AWS EC2 RDS Route53를 통한 배포*** 까지 모두 다뤄보았습니다!<br>
+&nbsp;&nbsp;    ***Python, Flask, Django, DRF, Docker, NGINX, AWS EC2 RDS Route53를 통한 배포*** 까지 모두 다뤄보았습니다!<br>
 
 부트캠프 끝나자마자 팀 구성을 하여 원티드 프리온보딩 과정에 참여중입니다 <br>
 
 비서과 출신으로 `꼼꼼` 하고 ! <br>
 다양한 근무경험으로 `적응력도 빠르고` ! <br>
-`원활한 커뮤니케이션 기술` 팀리더 경험까지 갖춘!<br>
+`원활한 커뮤니케이션 기술`의 팀리더 경험까지 갖춘!<br>
 될 때까지 하는 백엔드 주니어 개발자 윤슬기입니다 🤗 <br>
 
 <br>
 
-### 🙏 연락처
+### 연락처
 - 이메일 : nicesugi@kakao.com
 - 블로그 : https://nicesugi.tistory.com/
 - 깃헙 : https://github.com/nicesugi/
 
+<br>
+
+### 학력, 교육
+
+#### 원티드 프리온보딩 백엔드 코스 4기 
+- 2022.08.29 ~ 2022.09.30
+
+#### 스파르타코딩클럽 내일배움캠프 AI 웹개발자 양성 2기 수료
+
+- 2022.04.18 ~ 2022.08.18
+
+#### 수원여자대학 비서과 졸업
+
+- 2010.03 ~ 2012.02
+        
 <br>
 
 # <a href="https://github.com/nicesugi/2JYK-iPark">iPark</a>
