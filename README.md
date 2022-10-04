@@ -40,6 +40,34 @@
         
 <br>
 
+# <a href="https://github.com/nicesugi/Bulletin_Board_Service.git">Bulletin_Board_Service</a>
+배포 이미지는 위의 프로젝트 이름 눌러주시면 README.md에서 확인할 수 있습니다. <br>
+2022년 8월 31일 - 2022년 9월 5일 (1주)<br><br>
+유저가 등급에 따라 게시글을 작성할 수 있는 서비스 <br>
+
+#### 담당 역할
+        
+- 게시글 서비스 앱 모델링
+- 게시글 서비스 DRUD 리팩토링
+- EC2 배포 작업
+- RDS 데이터베이스 배포 작업
+- 도메인 연결
+- https 설정
+- 배포 관련 빌드 파일 수정 작업
+
+        
+#### 기술 스택
+
+- Python  |  Django  |  DRF
+- SQLite |  Postgres  |  Docker  |  AWS-EC2  |  AWS-RDS
+<br>
+
+
+<a href="https://github.com/PreOnBoarding/Bulletin_Board_Service.git" target="_blank">[Team 벼락치기 repo]</a>
+
+
+<br>
+
 # <a href="https://github.com/nicesugi/2JYK-iPark">iPark</a>
 💁🏻‍♀️ 팀 리더 / 담당 역할은 프로젝트이름을 눌러주시면 개인 포트폴리오로 이동합니다 <br>
 배포 사이트 >> https://www.ilovepark.net <br>
@@ -69,9 +97,9 @@
 <br>
 
 
-<a href="https://github.com/2JYK/iPark_django_backend" target="_blank">[iPark Backend repo]</a>
+<a href="https://github.com/2JYK/iPark_django_backend" target="_blank">[Team 2JYK Backend repo]</a>
 <br>
-<a href="https://github.com/2JYK/iPark_frontend" target="_blank">[iPark Frontend repo]</a>
+<a href="https://github.com/2JYK/iPark_frontend" target="_blank">[Team 2JYK Frontend repo]</a>
 
 
 <br>
@@ -100,9 +128,9 @@
 <br>
 
 
-<a href="https://github.com/2JYK/The-season-of-N.11_backend" target="_blank">[The season Backend repo]</a>
+<a href="https://github.com/2JYK/The-season-of-N.11_backend" target="_blank">[Team 2JYK Backend repo]</a>
 <br>
-<a href="https://github.com/2JYK/The-season-of-N.11_frontend" target="_blank">[The season Frontend repo]</a>
+<a href="https://github.com/2JYK/The-season-of-N.11_frontend" target="_blank">[Team 2JYK Frontend repo]</a>
 
 <br>
 
