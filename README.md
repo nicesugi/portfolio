@@ -1,49 +1,25 @@
 # 윤슬기의 포트폴리오
 
-### 반갑습니다~ 👋
+### 22년 4월 ***'Hello World'*** 를 시작으로<br>
+### &nbsp;&nbsp;    ***Python, Flask, Django, DRF, Docker, NGINX, Gunicorn, AWS를 통한 배포*** 까지 모두 다뤄보았습니다!  <br>
+### 비서과 출신으로 꼼꼼하고 다양한 근무경험으로 적응력도 빠르고 팀리더 경험까지 <br>
+### 두루두루 갖춘 빠른 성장중인 백엔드 주니어 개발자 윤슬기입니다 🤗 <br>
+### RESTful API를 작성하는 것과 TDD를 작성해 빈틈없는 코드, 클린코드와 능숙한 협업기술을 목표하고 있습니다. <br>
 
-22년 4월 ***'Hello World'*** 를 시작으로<br>
-&nbsp;&nbsp;    ***Python, Flask, Django, DRF, Docker, NGINX, Gunicorn, AWS EC2 RDS Route53를 통한 배포*** 까지 모두 다뤄보았습니다!  <br>
-비서과 출신으로 `꼼꼼` 하고 다양한 근무경험으로 `적응력도 빠르고` `원활한 커뮤니케이션 기술`의 팀리더 경험까지 갖춘 <br>
-백엔드 주니어 개발자 윤슬기입니다 🤗 <br>
-
-<br>
+---
 
 ### 연락처
-- 이메일 : nicesugi@kakao.com
-- 블로그 : https://nicesugi.tistory.com/
-- 깃헙 : https://github.com/nicesugi/
-
-<br>
-
-### 기술스택
-
-`Backend` Python | Django | Django REST framework
-
-`Frontend` HTML | CSS | Javascript
-
-`DataBase` MongoDB | SQLite | PostgreSQL
-
-`Infra` Gunicorn | NGINX | Docker | Let’s Encrypt | AWS EC2, RDS, Cloud9, Route53
-
-<br>
-
-### 학력, 교육
-
-#### 스파르타코딩클럽 내일배움캠프 AI 웹개발자 양성 2기 수료
-
-- 2022.04.18 ~ 2022.08.18
-
-#### 수원여자대학 비서과 졸업
-
-- 2010.03 ~ 2012.02
+- Email : nicesugi@kakao.com
+- Blog  : https://nicesugi.tistory.com/
+- Resume: https://raspy-antique-ffa.notion.site/3d17f36f807a4525984874bc7ce32316
         
-<br>
+---
 
 # <a href="https://github.com/nicesugi/Bulletin_Board_Service.git">Bulletin_Board_Service</a>
-배포 이미지는 위의 프로젝트 이름 눌러주시면 README.md에서 확인할 수 있습니다. <br>
-2022년 8월 31일 - 2022년 9월 5일 (1주)<br><br>
-유저가 등급에 따라 게시글을 작성할 수 있는 서비스 <br>
+🔼 프로젝트 상세 설명 / 💁🏻‍♀️ 역할 : 팔로잉 / 팀구성 : 4명(전원 백엔드 개발)<br>
+<br><br>
+2022년 8월 31일 - 2022년 9월 5일 (1주)<br>
+유저가 등급에 따라 게시글을 작성할 수 있는 미니 서비스 <br>
 
 #### 담당 역할
         
@@ -59,27 +35,24 @@
 #### 기술 스택
 
 - Python  |  Django  |  DRF
-- SQLite |  Postgres  |  Docker  |  AWS-EC2  |  AWS-RDS
+- SQLite |  PostgreSQL  |  Docker  |  Gunicorn  | NGIGX  |  AWS
 <br>
-
-
-<a href="https://github.com/PreOnBoarding/Bulletin_Board_Service.git" target="_blank">[Team 벼락치기 repo]</a>
 
 
 <br>
 
 # <a href="https://github.com/nicesugi/2JYK-iPark">iPark</a>
-💁🏻‍♀️ 팀 리더 / 담당 역할은 프로젝트이름을 눌러주시면 개인 포트폴리오로 이동합니다 <br>
-배포 사이트 >> https://www.ilovepark.net <br>
-2022년 7월 8일 - 2022년 8월 16일 (5주)<br><br>
-서울시 공원들을 소개해주고 공원을 중심으로 지역 커뮤니티를 구성하는 서비스 (팀프로젝트)<br>
+🔼 프로젝트 상세 설명 / 💁🏻‍♀️ 역할 : 팀 리더 / 팀구성 : 4명(전원 담당 기능의 백&프론트엔드 동시 개발)<br>
+배포 사이트 >> https://www.ilovepark.net <br><br>
+2022년 7월 8일 - 2022년 8월 16일 (5주)<br>
+서울시 공원들을 소개해주고 공원을 중심으로 지역 커뮤니티를 구성하는 서비스<br>
 
 #### 담당 역할
         
 - 프로젝트 모델링
 - 공공 데이터 csv 파일 정제 후 JSON 파일로 변환하여 데이터 관리
 - 공원 상세 정보 페이지 구현
-- 공원 댓글 기능 구현(http method 별 설명)
+- 공원 댓글 기능 구현
 - 카카오 소셜 로그인
 - 배포 및 지속적인 업데이트 경험
 - HTTPS 사용을 위한 SSL 인증서 적용 (letsencrypt 사용&미사용 경험)
@@ -92,24 +65,18 @@
 - REST API | Kakao
 - Python  |  Django  |  DRF
 - Javascript  |  JQuery  |  HTML  |  CSS
-- SQLite |  Postgres  |  Docker  |  AWS-EC2  |  AWS-ROUTE53 |  AWS-RDS
+- SQLite |  PostgreSQL  |  Docker  |  Gunicorn  | NGIGX  |  AWS
 - Visual Studio Code  |  postman
 <br>
-
-
-<a href="https://github.com/2JYK/iPark_django_backend" target="_blank">[Team 2JYK Backend repo]</a>
-<br>
-<a href="https://github.com/2JYK/iPark_frontend" target="_blank">[Team 2JYK Frontend repo]</a>
-
 
 <br>
 
 
 # <a href="https://github.com/nicesugi/2JYK-The_season_of_N.11">The season of N.11</a>
-💁🏻‍♀️ 팀 리더 / 담당 역할은 프로젝트이름을 눌러주시면 개인 포트폴리오로 이동합니다 <br>
-배포 사이트는 닫은 상태입니다. 간단한 시연영상 주소는 >> [클릭](https://tv.kakao.com/v/430188053) <br>
-2022년 6월 28일 - 2022년 7월 6일 (1주)<br><br>
-유화 제작 인공지능 기술로 이미지를 변환시켜주는 SNS (팀프로젝트)<br>
+🔼 프로젝트 상세 설명 / 💁🏻‍♀️ 역할 : 팀 리더 / 팀구성 : 4명(전원 담당 기능의 백&프론트엔드 동시 개발)<br>
+배포 사이트는 닫은 상태입니다. 간단한 시연영상은 >> [클릭](https://tv.kakao.com/v/430188053) <br><br>
+2022년 6월 28일 - 2022년 7월 6일 (1주)<br>
+유화 제작 인공지능 기술로 이미지를 변환시켜주는 SNS<br>
 
 #### 담당 역할
 
@@ -123,14 +90,10 @@
 
 - Python  |  Django  |  DRF
 - Javascript  |  JQuery  |  HTML  |  CSS
-- SQLite |  AWS-EC2  |  AWS-S3 
+- SQLite |  AWS
 - Visual Studio Code  |  postman
 <br>
 
-
-<a href="https://github.com/2JYK/The-season-of-N.11_backend" target="_blank">[Team 2JYK Backend repo]</a>
-<br>
-<a href="https://github.com/2JYK/The-season-of-N.11_frontend" target="_blank">[Team 2JYK Frontend repo]</a>
 
 <br>
 
