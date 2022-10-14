@@ -4,7 +4,7 @@
 ### &nbsp;&nbsp;    ***Python, Flask, Django, DRF, Docker, NGINX, Gunicorn, AWS를 통한 배포*** 까지 모두 다뤄보았습니다!  <br>
 ### 비서과 출신으로 꼼꼼하고 다양한 근무경험으로 적응력도 빠르고 팀리더 경험까지 <br>
 ### 두루두루 갖춘 빠른 성장중인 백엔드 주니어 개발자 윤슬기입니다 🤗 <br>
-### RESTful API를 작성하는 것과 TDD를 작성해 빈틈없는 코드, 클린코드와 능숙한 협업기술을 목표하고 있습니다. <br>
+### RESTful API를 작성하는 것과 테스트코드를 작성해 빈틈없는 코드, 클린코드와 능숙한 협업기술을 목표하고 있습니다. <br>
 
 ---
 
@@ -14,6 +14,38 @@
 - Resume: https://raspy-antique-ffa.notion.site/3d17f36f807a4525984874bc7ce32316
         
 ---
+
+# <a href="https://github.com/nicesugi/Social_Networking_Service">SNS</a>
+🔼 프로젝트 상세 설명 / 💁🏻‍♀️ 팀구성 : 1명(백엔드 개발)<br>
+<br>
+2022년 9월 31일 - 진행중<br>
+RESTful API를 작성하는 것과 테스트코드를 작성해 빈틈없는 코드, 컨벤션에 맞는 클린코드를 작성하기 위한 개인 프로젝트 <br>
+
+#### 담당 역할
+        
+- 회원가입
+- 로그인
+- 게시글 CRUD
+    - 생성 : 해시태그(Django 태그 라이브러리 사용)
+    - 목록 조회 : 정렬 / 검색 / 필터링 / 페이징 적용
+    - 상세 조회 : 조회수, 좋아요 카운트
+    - 삭제 : soft delete, hard delete
+- RESTful API 작성을 위한 Service / View Layer 구분
+- 에러 핸들링 통일성 유지
+- 테스트 코드 작성
+- Docker-compose, NGINX, AWS를 이용한 배포
+
+        
+#### 기술 스택
+
+- Python  |  Django  |  DRF
+- SQLite
+- Docker  |  Gunicorn  | NGIGX  |  AWS
+
+<br>
+
+
+<br>
 
 # <a href="https://github.com/nicesugi/Bulletin_Board_Service.git">Bulletin_Board_Service</a>
 🔼 프로젝트 상세 설명 / 💁🏻‍♀️ 역할 : 팔로잉 / 팀구성 : 4명(전원 백엔드 개발)<br>
