@@ -44,33 +44,6 @@ RESTful API를 작성하는 것과 테스트코드를 작성해 빈틈없는 코
 
 <br>
 
-
-<br>
-
-# <a href="https://github.com/nicesugi/Bulletin_Board_Service.git">Bulletin_Board_Service</a>
-🔼 프로젝트 상세 설명 / 💁🏻‍♀️ 역할 : 팔로잉 / 팀구성 : 4명(전원 백엔드 개발)<br>
-<br><br>
-2022년 8월 31일 - 2022년 9월 5일 (1주)<br>
-유저가 등급에 따라 게시글을 작성할 수 있는 미니 서비스 <br>
-
-#### 담당 역할
-        
-- 게시글 서비스 앱 모델링
-- 게시글 서비스 DRUD 리팩토링
-- EC2 배포 작업
-- RDS 데이터베이스 배포 작업
-- 도메인 연결
-- https 설정
-- 배포 관련 빌드 파일 수정 작업
-
-        
-#### 기술 스택
-
-- Python  |  Django  |  DRF
-- SQLite |  PostgreSQL  |  Docker  |  Gunicorn  | NGIGX  |  AWS
-<br>
-
-
 <br>
 
 # <a href="https://github.com/nicesugi/2JYK-iPark">iPark</a>
