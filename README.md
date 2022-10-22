@@ -15,7 +15,7 @@
         
 ---
 
-# <a href="https://github.com/nicesugi/Social_Networking_Service">SNS</a>
+# <a href="https://github.com/nicesugi/Social_Networking_Service">GOALS_REST_API</a>
 🔼 프로젝트 상세 설명 / 💁🏻‍♀️ 팀구성 : 1명(백엔드 개발)<br>
 <br>
 2022년 9월 31일 - 진행중<br>
