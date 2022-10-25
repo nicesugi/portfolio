@@ -1,103 +1,93 @@
 # 윤슬기의 포트폴리오
 
-### 22년 4월 ***'Hello World'*** 를 시작으로<br>
-### &nbsp;&nbsp;    ***Python, Flask, Django, DRF, Docker, NGINX, Gunicorn, AWS를 통한 배포*** 까지 모두 다뤄보았습니다!  <br>
-### 비서과 출신으로 꼼꼼하고 다양한 근무경험으로 적응력도 빠르고 팀리더 경험까지 <br>
-### 두루두루 갖춘 빠른 성장중인 백엔드 주니어 개발자 윤슬기입니다 🤗 <br>
-### RESTful API를 작성하는 것과 테스트코드를 작성해 빈틈없는 코드, 클린코드와 능숙한 협업기술을 목표하고 있습니다. <br>
+22년 4월 ***'Hello World'*** 를 시작으로<br>
+&nbsp;&nbsp;    ***Python, Flask, Django, DRF, Docker, NGINX, Gunicorn, AWS를 통한 배포*** 까지 모두 다뤄보았습니다!  <br>
+비서과 출신으로 꼼꼼하고 다양한 근무경험으로 적응력도 빠르고 팀리더 경험까지 <br>
+두루두루 갖춘 빠른 성장중인 백엔드 주니어 개발자 윤슬기입니다 🤗 <br>
+RESTful API를 작성하는 것과 테스트코드를 작성해 빈틈없는 코드, 클린코드와 능숙한 협업기술을 목표하고 있습니다. <br>
 
 ---
 
 ### 연락처
 - Email : nicesugi@kakao.com
 - Blog  : https://nicesugi.tistory.com/
-- Resume: https://raspy-antique-ffa.notion.site/3d17f36f807a4525984874bc7ce32316
+- Github : https://github.com/nicesugi/
         
 ---
 
-# <a href="https://github.com/nicesugi/Social_Networking_Service">GOALS_REST_API</a>
-🔼 프로젝트 상세 설명 / 💁🏻‍♀️ 팀구성 : 1명(백엔드 개발)<br>
-<br>
-2022년 9월 31일 - 진행중<br>
-RESTful API를 작성하는 것과 테스트코드를 작성해 빈틈없는 코드, 컨벤션에 맞는 클린코드를 작성하기 위한 개인 프로젝트 <br>
+# 1. GOALS_REST_API
+- 기간 : 2022년 9월 31일 - 진행중
 
-#### 담당 역할
+- 개인 프로젝트
         
-- 회원가입
-- 로그인
-- 게시글 CRUD
-    - 생성 : 해시태그(Django 태그 라이브러리 사용)
-    - 목록 조회 : 정렬 / 검색 / 필터링 / 페이징 적용
-    - 상세 조회 : 조회수, 좋아요 카운트
-    - 삭제 : soft delete, hard delete
-- RESTful API 작성을 위한 Service / View Layer 구분
-- 에러 핸들링 통일성 유지
-- 테스트 코드 작성
-- Docker-compose, NGINX, AWS를 이용한 배포
+- 개인 포트폴리오 : <a href="https://github.com/nicesugi/GOALS_REST_API">[링크]</a>
 
+- 핵심 담당 기능
+
+        1. RESTful API 작성을 위한 Service / View Layer 구분
+        2. 에러 핸들링 통일성 유지 
+        3. 테스트 코드 작성 ; Service & API 
+        4. 게시글 CRUD
+            - 생성 : 해시태그 포함
+            - 목록 조회 : 정렬 / 검색 / 필터링 / 페이징 적용
+            - 상세 조회 : 조회수, 좋아요 카운트
+            - 삭제 : 비활성화, 영구삭제
+            - 복구 : 비활성화 복구
+
+- 기술 스택
+
+        - Python  |  Django  |  Django REST framework
+
+---
+# 2. iPark
+- 기간 : 2022년 7월 8일 - 2022년 8월 16일 (5주)
+
+- 팀 프로젝트\
+        &nbsp;&nbsp;&nbsp;&nbsp;- 역할 : 리더\
+        &nbsp;&nbsp;&nbsp;&nbsp;- 팀구성 : 4명
         
-#### 기술 스택
+- 개인 포트폴리오 : <a href="https://github.com/nicesugi/iPark">[링크]</a>
+- 배포 사이트 >> https://www.ilovepark.net <br>
 
-- Python  |  Django  |  DRF
-- SQLite
-- Docker  |  Gunicorn  | NGIGX  |  AWS
+- 핵심 담당 기능
 
-<br>
-
-<br>
-
-# <a href="https://github.com/nicesugi/2JYK-iPark">iPark</a>
-🔼 프로젝트 상세 설명 / 💁🏻‍♀️ 역할 : 팀 리더 / 팀구성 : 4명(전원 담당 기능의 백&프론트엔드 동시 개발)<br>
-배포 사이트 >> https://www.ilovepark.net <br><br>
-2022년 7월 8일 - 2022년 8월 16일 (5주)<br>
-서울시 공원들을 소개해주고 공원을 중심으로 지역 커뮤니티를 구성하는 서비스<br>
-
-#### 담당 역할
+        1. Open Datasets 을 이용해 서울시 공원 정보를 제공하는 API 구현
+        2. Open API와 ML을 사용해 공원과 가까운 공영주차장을 추천
+        3. 소셜 로그인; kakao
+        4. 배포 및 지속적인 업데이트 경험
         
-- 프로젝트 모델링
-- 공공 데이터 csv 파일 정제 후 JSON 파일로 변환하여 데이터 관리
-- 공원 상세 정보 페이지 구현
-- 공원 댓글 기능 구현
-- 카카오 소셜 로그인
-- 배포 및 지속적인 업데이트 경험
-- HTTPS 사용을 위한 SSL 인증서 적용 (letsencrypt 사용&미사용 경험)
+- 기술 스택
 
+        - Search Park Info Service | Seoul OpenAPI
+        - NAVER Maps JavaScript API V3
+        - REST API | Kakao
+        - Python  |  Django  |  Django REST framework
+        - Javascript  |  JQuery  |  HTML  |  CSS
+        - SQLite |  PostgreSQL  |  Docker  |  Gunicorn  | NGIGX  |  AWS
+
+---
+# 3. The season
+- 기간 : 2022년 6월 28일 - 2022년 7월 6일 (1주)
+
+- 팀 프로젝트\
+        &nbsp;&nbsp;&nbsp;&nbsp;- 역할 : 리더\
+        &nbsp;&nbsp;&nbsp;&nbsp;- 팀구성 : 4명
         
-#### 기술 스택
+- 개인 포트폴리오 : <a href="https://github.com/nicesugi/2JYK-The_season_of_N.11">[링크]</a>
+- 시연 영상 >> https://tv.kakao.com/v/430188053 <br>
 
-- Search Park Info Service | Seoul OpenAPI
-- NAVER Maps JavaScript API V3
-- REST API | Kakao
-- Python  |  Django  |  DRF
-- Javascript  |  JQuery  |  HTML  |  CSS
-- SQLite |  PostgreSQL  |  Docker  |  Gunicorn  | NGIGX  |  AWS
-- Visual Studio Code  |  postman
-<br>
+- 핵심 담당 기능
 
-<br>
+        1. 회원가입, JWT 을 이용한 로그인
+        2. 유화 제작 인공지능 기술(NST)을 사용하여 이미지의 스타일을 변환하여 게시글을 생성
+        3. 게시글의 북마크 기능
+        4. 나의 게시글의 CRUD
+        
+- 기술 스택
 
-
-# <a href="https://github.com/nicesugi/2JYK-The_season_of_N.11">The season of N.11</a>
-🔼 프로젝트 상세 설명 / 💁🏻‍♀️ 역할 : 팀 리더 / 팀구성 : 4명(전원 담당 기능의 백&프론트엔드 동시 개발)<br>
-배포 사이트는 닫은 상태입니다. 간단한 시연영상은 >> [클릭](https://tv.kakao.com/v/430188053) <br><br>
-2022년 6월 28일 - 2022년 7월 6일 (1주)<br>
-유화 제작 인공지능 기술로 이미지를 변환시켜주는 SNS<br>
-
-#### 담당 역할
-
-- 회원가입, simple JWT 을 이용한 로그인
-- 마이 페이지 구현 : 내가 작성한 게시글들 조회 / 게시글 수정 / 게시글 삭제
-- 북마크 페이지 구현 : 북마크한 게시글을 조회 / 해당 게시글의 북마크 해제
-- 유화제작 인공지능 기술(NST) 사용하여 원하는 이미지를 11가지의 스타일 중 하나로 적용하여 이미지 생성, 조회, (서버/DB)저장
-
-
-#### 기술 스택
-
-- Python  |  Django  |  DRF
-- Javascript  |  JQuery  |  HTML  |  CSS
-- SQLite |  AWS
-- Visual Studio Code  |  postman
-<br>
+        - Python  |  Django  |  Django REST framework
+        - Javascript  |  JQuery  |  HTML  |  CSS
+        - SQLite  |  Docker  |  Gunicorn  | NGIGX  |  AWS
 
 
 <br>
