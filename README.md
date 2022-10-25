@@ -74,7 +74,7 @@ RESTful API를 작성하는 것과 테스트코드를 작성해 빈틈없는 코
         &nbsp;&nbsp;&nbsp;&nbsp;- 팀구성 : 4명
         
 - 개인 포트폴리오 : <a href="https://github.com/nicesugi/2JYK-The_season_of_N.11">[링크]</a>
-- 시연 영상 >> https://tv.kakao.com/v/430188053 <br>
+- 시연 영상 >> <a href="https://tv.kakao.com/v/430188053">[링크]</a> <br>
 
 - 핵심 담당 기능
 
