@@ -15,7 +15,27 @@ RESTful API를 작성하는 것과 테스트코드를 작성해 빈틈없는 코
         
 ---
 
-# 1. GOALS_REST_API
+# 5. University
+- 기간 : 2022년 10월 - 진행중
+
+- 개인 프로젝트
+        
+- 개인 포트폴리오 : <a href="https://github.com/nicesugi/university">[링크]</a>
+
+- 핵심 담당 기능
+
+        1. 대학교 검색(정렬 , 검색, 페이징)
+        2. 웹 페이지에서 제공하는 Json Data를 토대로 데이터 삽입
+        3. 사용자 더미데이터 1000개의 생성
+        4. 사용자별 선호대학 더미데이터 생성 로직 모든 사용자에게 랜덤한 20개의 선호대학교 할당
+
+- 기술 스택
+
+        - Python  |  Django  |  Django REST framework
+        
+---
+
+# 4. GOALS_REST_API
 - 기간 : 2022년 9월 31일 - 진행중
 
 - 개인 프로젝트
@@ -39,7 +59,8 @@ RESTful API를 작성하는 것과 테스트코드를 작성해 빈틈없는 코
         - Python  |  Django  |  Django REST framework
 
 ---
-# 2. iPark
+
+# 3. iPark
 - 기간 : 2022년 7월 8일 - 2022년 8월 16일 (5주)
 
 - 팀 프로젝트\
@@ -66,7 +87,8 @@ RESTful API를 작성하는 것과 테스트코드를 작성해 빈틈없는 코
         - SQLite |  PostgreSQL  |  Docker  |  Gunicorn  | NGIGX  |  AWS
 
 ---
-# 3. The season
+
+# 2. The season
 - 기간 : 2022년 6월 28일 - 2022년 7월 6일 (1주)
 
 - 팀 프로젝트\
@@ -85,10 +107,38 @@ RESTful API를 작성하는 것과 테스트코드를 작성해 빈틈없는 코
         
 - 기술 스택
 
-        - Python  |  Django  |  Django REST framework
+        - Python  |  Django  |  Django REST framework  |  ML
         - Javascript  |  JQuery  |  HTML  |  CSS
         - SQLite  |  Docker  |  Gunicorn  | NGIGX  |  AWS
 
+---
+
+# 1. Watch a movie
+- 기간 : 2022년 6월 2일 - 2022년 6월 14일
+
+- 팀 프로젝트\
+        &nbsp;&nbsp;&nbsp;&nbsp;- 역할 : 리더\
+        &nbsp;&nbsp;&nbsp;&nbsp;- 팀구성 : 4명
+        
+- 개인 포트폴리오 : <a href="https://github.com/nicesugi/2JYK-Watch_a_movie_N.11">[링크]</a>
+- 시연 영상 >> <a href="https://nicesugi.tistory.com/170">[링크]</a> <br>
+
+- 핵심 담당 기능
+
+        1. 사용자의 영화 선호도 조사
+            - 랜덤으로 영화목록을 보여주고 체크박스로 사용자의 취향을 선택 유도
+            - 선택한 영화가 없다면, 영화를 선택해주세요 메세지가 뜨고, 같은 페이지로 이동
+            - 선택한 영화가 있다면, 해당 영화의 평점 유사도를 계산해 비슷한 평점의 영화를 추천해줌
+        2. 아이템 협업 필터링을 이용해 메인페이지에 추천영화들 로드
+            - 평점 3.0 이상의 영화를 로드
+            - 기록이 없는 사용자만 로그인 후에 선호도 조사를 할 수 있음
+
+- 기술 스택
+
+        - Python  |  Django  |  ML
+        - Django template  |  HTML  |  CSS
+
+---
 
 <br>
 
