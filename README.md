@@ -117,7 +117,7 @@ RESTful API를 작성하는 것과 테스트코드를 작성해 빈틈없는 코
 - 기간 : 2022년 6월 2일 - 2022년 6월 14일
 
 - 팀 프로젝트\
-        &nbsp;&nbsp;&nbsp;&nbsp;- 역할 : 리더\
+        &nbsp;&nbsp;&nbsp;&nbsp;- 역할 : 팔로잉\
         &nbsp;&nbsp;&nbsp;&nbsp;- 팀구성 : 4명
         
 - 개인 포트폴리오 : <a href="https://github.com/nicesugi/2JYK-Watch_a_movie_N.11">[링크]</a>
