@@ -9,7 +9,7 @@ RESTful API를 작성하는 것과 테스트코드를 작성해 빈틈없는 코
 ---
 
 ### 연락처
-- Email : nicesugi@kakao.com
+- Email : sugi.28.jan@gmail.com
 - Blog  : https://nicesugi.tistory.com/
 - Github : https://github.com/nicesugi/
         
